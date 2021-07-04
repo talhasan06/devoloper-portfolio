@@ -38,3 +38,32 @@ h1 {
   background-repeat: no-repeat;
   background-position: right;
 }
+.experience-item {
+  width: 40%;
+  margin-left: 5%;
+  margin-right: 5%;
+  padding: 10px;
+  box-shadow: 10px 10px 40px gray;
+  border-radius: 5px;
+}
+.experience-item p {
+  text-align: justify;
+}
+.experience-area {
+  background-image: url(./images/exp-bg.png);
+  background-repeat: no-repeat;
+  background-position: left;
+}
+#senior-dev {
+  border-image: linear-gradient(blue, cyan);
+  border-image-slice: 1;
+  border-left: 7px solid;
+}
+#baby-dev {
+  border-image: linear-gradient(lightsalmon, tomato);
+  border-image-slice: 1;
+  border-left: 7px solid;
+}
+footer p {
+  text-align: center;
+}
