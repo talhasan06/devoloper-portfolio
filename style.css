@@ -19,7 +19,7 @@ section {
 .half-width img {
   width: 80%;
 }
-.hire-button {
+.link-button {
   text-decoration: none;
   background-image: linear-gradient(lightsalmon, tomato);
   padding: 10px 40px;
@@ -32,15 +32,7 @@ section {
   background-image: url(./images/top-banner.png);
   background-repeat: no-repeat;
 }
-.resume-button {
-  text-decoration: none;
-  background-image: linear-gradient(lightsalmon, tomato);
-  padding: 10px 40px;
-  font-size: 1rem;
-  color: aliceblue;
-  font-weight: 700;
-  border-radius: 5px;
-}
+
 .dream-big {
   background-image: url(./images/dream-bg.png);
   background-repeat: no-repeat;
